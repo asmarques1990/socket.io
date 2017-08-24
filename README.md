@@ -1,7 +1,7 @@
 # Before Running:
-On shell: npm install socket.io --save
-On shell: npm install express --save
+npm install socket.io --save  
+npm install express --save  
 
 # How to Run:
-On shell: node server.js
-On browser: http://localhost:3000/
+node server.js  
+http://localhost:3000/  
