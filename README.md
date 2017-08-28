@@ -12,5 +12,5 @@ http://localhost:3000/
 Implemented with Action Cable 
 
 # How to Run:
-rails server
+rails server  
 http://localhost:3000/counter/show
